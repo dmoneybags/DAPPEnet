@@ -1,0 +1,891 @@
+﻿Name,Num
+"Ability Capsule		",1
+"Ability Patch		",2
+"Ability Urge		",3
+"Abomasite		",4
+"Absolite		",5
+"Absorb Bulb		",6
+"Adamant Mint		",7
+"Adamant Orb		",8
+"Adrenaline Orb		",9
+"Aerodactylite		",10
+"Aggronite		",11
+"Aguav Berry		",12
+"Air Balloon		",13
+"Alakazite		",14
+"Aloraichium Z		",15
+"Altarianite		",16
+"Ampharosite		",17
+"Amulet Coin		",18
+"Antidote		",19
+"Apicot Berry		",20
+"Armor Fossil		",21
+"Armorite Ore		",22
+"Aspear Berry		",23
+"Assault Vest		",24
+"Audinite		",25
+"Awakening		",26
+"Babiri Berry		",27
+"Bach's Food Tin		",28
+"Balm Mushroom		",29
+"Banettite		",30
+"Beach Glass		",31
+"Beast Ball		",32
+"Beedrillite		",33
+"Belue Berry		",34
+"Berry Juice		",35
+"Berry Sweet		",36
+"Big Malasada		",37
+"Big Mushroom		",38
+"Big Nugget		",39
+"Big Pearl		",40
+"Big Root		",41
+"Binding Band		",42
+"Black Apricorn		",43
+"Black Belt		",44
+"Black Flute		",45
+"Black Glasses		",46
+"Black Sludge		",47
+"Blastoisinite		",48
+"Blazikenite		",49
+"Blue Apricorn		",50
+"Blue Flute		",51
+"Blue Scarf		",52
+"Blue Shard		",53
+"Bluk Berry		",54
+"Blunder Policy		",55
+"Bob's Food Tin		",56
+"Boiled Egg		",57
+"Bold Mint		",58
+"Bottle Cap		",59
+"Brave Mint		",60
+"Bread		",61
+"Bright Powder		",62
+"Brittle Bones		",63
+"Bug Gem		",64
+"Bug Memory		",65
+"Buginium Z		",66
+"Burn Drive		",67
+"Burn Heal		",68
+"Calcium		",69
+"Calm Mint		",70
+"Cameruptite		",71
+"Carbos		",72
+"Careful Mint		",73
+"Carrot Seeds		",74
+"Casteliacone		",75
+"Cell Battery		",76
+"Chalky Stone		",77
+"Charcoal		",78
+"Charizardite X		",79
+"Charizardite Y		",80
+"Charti Berry		",81
+"Cheri Berry		",82
+"Cherish Ball		",83
+"Chesto Berry		",84
+"Chilan Berry		",85
+"Chill Drive		",86
+"Chipped Pot		",87
+"Choice Band		",88
+"Choice Scarf		",89
+"Choice Specs		",90
+"Chople Berry		",91
+"Claw Fossil		",92
+"Cleanse Tag		",93
+"Clever Wing		",94
+"Clover Sweet		",95
+"Coba Berry		",96
+"Coconut Milk		",97
+"Colbur Berry		",98
+"Comet Shard		",99
+"Cornn Berry		",100
+"Courage Candy		",101
+"Courage Candy L		",102
+"Courage Candy XL		",103
+"Cover Fossil		",104
+"Cracked Pot		",105
+"Custap Berry		",106
+"Damp Mulch		",107
+"Damp Rock		",108
+"Dark Gem		",109
+"Dark Memory		",110
+"Darkinium Z		",111
+"Dawn Stone		",112
+"Decidium Z		",113
+"Deep Sea Scale		",114
+"Deep Sea Tooth		",115
+"Destiny Knot		",116
+"Diancite		",117
+"Dire Hit		",118
+"Dire Hit 2		",119
+"Dire Hit 3		",120
+"Discount Coupon		",121
+"Dive Ball		",122
+"DNA Splicers		",123
+"Dome Fossil		",124
+"Douse Drive		",125
+"Draco Plate		",126
+"Dragon Fang		",127
+"Dragon Gem		",128
+"Dragon Memory		",129
+"Dragon Scale		",130
+"Dragonium Z		",131
+"Dread Plate		",132
+"Dream Ball		",133
+"Dropped Item		",134
+"Dubious Disc		",135
+"Durin Berry		",136
+"Dusk Ball		",137
+"Dusk Stone		",138
+"Dynamax Candy		",139
+"Dynite Ore		",140
+"Earth Plate		",141
+"Eevium Z		",142
+"Eject Button		",143
+"Eject Pack		",144
+"Electirizer		",145
+"Electric Gem		",146
+"Electric Memory		",147
+"Electric Seed		",148
+"Electrium Z		",149
+"Elevator Key		",150
+"Elixir		",151
+"Energy Powder		",152
+"Energy Root		",153
+"Enigma Berry		",154
+"Escape Rope		",155
+"Ether		",156
+"Everstone		",157
+"Eviolite		",158
+"Exp. Candy L		",159
+"Exp. Candy M		",160
+"Exp. Candy S		",161
+"Exp. Candy XL		",162
+"Exp. Candy XS		",163
+"Exp. Share		",164
+"Expert Belt		",165
+"Fairium Z		",166
+"Fairy Gem		",167
+"Fairy Memory		",168
+"Fancy Apple		",169
+"Fast Ball		",170
+"Festival Ticket		",171
+"Fighting Gem		",172
+"Fighting Memory		",173
+"Fightinium Z		",174
+"Figy Berry		",175
+"Fire Gem		",176
+"Fire Memory		",177
+"Fire Stone		",178
+"Firium Z		",179
+"Fist Plate		",180
+"Flame Orb		",181
+"Flame Plate		",182
+"Float Stone		",183
+"Flower Sweet		",184
+"Fluffy Tail		",185
+"Flying Gem		",186
+"Flying Memory		",187
+"Flyinium Z		",188
+"Focus Band		",189
+"Focus Sash		",190
+"Fossilized Bird		",191
+"Fossilized Dino		",192
+"Fossilized Drake		",193
+"Fossilized Fish		",194
+"Fresh Cream		",195
+"Fresh Water		",196
+"Fried Food		",197
+"Friend Ball		",198
+"Fruit Bunch		",199
+"Full Heal		",200
+"Full Incense		",201
+"Full Restore		",202
+"Galarica Cuff		",203
+"Galarica Twig		",204
+"Galarica Wreath		",205
+"Galladite		",206
+"Ganlon Berry		",207
+"Garchompite		",208
+"Gardevoirite		",209
+"Gengarite		",210
+"Genius Wing		",211
+"Gentle Mint		",212
+"Ghost Gem		",213
+"Ghost Memory		",214
+"Ghostium Z		",215
+"Gigantamix		",216
+"Glalitite		",217
+"Gold Bottle Cap		",218
+"Gold Leaf		",219
+"Golden Nanab Berry		",220
+"Golden Pinap Berry		",221
+"Golden Razz Berry		",222
+"Gooey Mulch		",223
+"Grass Gem		",224
+"Grass Memory		",225
+"Grassium Z		",226
+"Grassy Seed		",227
+"Great Ball		",228
+"Green Apricorn		",229
+"Green Scarf		",230
+"Green Shard		",231
+"Grepa Berry		",232
+"Grip Claw		",233
+"Griseous Orb		",234
+"Ground Gem		",235
+"Ground Memory		",236
+"Groundium Z		",237
+"Growth Mulch		",238
+"Grubby Hanky		",239
+"Guard Spec.		",240
+"Gyaradosite		",241
+"Haban Berry		",242
+"Hard Stone		",243
+"Hasty Mint		",244
+"Heal Ball		",245
+"Heal Powder		",246
+"Health Candy		",247
+"Health Candy L		",248
+"Health Candy XL		",249
+"Health Wing		",250
+"Heart Scale		",251
+"Heat Rock		",252
+"Heavy Ball		",253
+"Heavy-Duty Boots		",254
+"Helix Fossil		",255
+"Heracronite		",256
+"Hi-tech Earbuds		",257
+"HM01		",258
+"HM02		",259
+"HM03		",260
+"HM04		",261
+"HM05		",262
+"HM06		",263
+"HM07		",264
+"HM08		",265
+"Hondew Berry		",266
+"Honey		",267
+"Honor Of Kalos		",268
+"Houndoominite		",269
+"HP Up		",270
+"Hyper Potion		",271
+"Iapapa Berry		",272
+"Ice Gem		",273
+"Ice Heal		",274
+"Ice Memory		",275
+"Ice Stone		",276
+"Iceroot Carrot		",277
+"Icicle Plate		",278
+"Icium Z		",279
+"Icy Rock		",280
+"Impish Mint		",281
+"Incinium Z		",282
+"Insect Plate		",283
+"Instant Noodles		",284
+"Intriguing Stone		",285
+"Iron		",286
+"Iron Ball		",287
+"Iron Plate		",288
+"Item Drop		",289
+"Item Urge		",290
+"Jaboca Berry		",291
+"Jolly Mint		",292
+"Kangaskhanite		",293
+"Kasib Berry		",294
+"Kebia Berry		",295
+"Kee Berry		",296
+"Kelpsy Berry		",297
+"King's Rock		",298
+"Kommonium Z		",299
+"Lagging Tail		",300
+"Lansat Berry		",301
+"Large Leek		",302
+"Latiasite		",303
+"Latiosite		",304
+"Lava Cookie		",305
+"Lax Incense		",306
+"Lax Mint		",307
+"Leaf Letter		",308
+"Leaf Stone		",309
+"Leek		",310
+"Leftovers		",311
+"Lemonade		",312
+"Leppa Berry		",313
+"Level Ball		",314
+"Liechi Berry		",315
+"Life Orb		",316
+"Light Ball		",317
+"Light Clay		",318
+"Lone Earring		",319
+"Lonely Mint		",320
+"Looker Ticket		",321
+"Lopunnite		",322
+"Love Ball		",323
+"Love Sweet		",324
+"Lucarionite		",325
+"Luck Incense		",326
+"Lucky Egg		",327
+"Lucky Punch		",328
+"Lum Berry		",329
+"Luminous Moss		",330
+"Lumiose Galette		",331
+"Lunalium Z		",332
+"Lure		",333
+"Lure Ball		",334
+"Lustrous Orb		",335
+"Luxury Ball		",336
+"Lycanium Z		",337
+"Macho Brace		",338
+"Magmarizer		",339
+"Magnet		",340
+"Mago Berry		",341
+"Magost Berry		",342
+"Manectite		",343
+"Maranga Berry		",344
+"Marble		",345
+"Marshadium Z		",346
+"Master Ball		",347
+"Mawilite		",348
+"Max Elixir		",349
+"Max Ether		",350
+"Max Honey		",351
+"Max Lure		",352
+"Max Mushrooms		",353
+"Max Potion		",354
+"Max Repel		",355
+"Max Revive		",356
+"Meadow Plate		",357
+"Medichamite		",358
+"Mental Herb		",359
+"Metagrossite		",360
+"Metal Coat		",361
+"Metal Powder		",362
+"Metronome		",363
+"Mewnium Z		",364
+"Mewtwonite X		",365
+"Mewtwonite Y		",366
+"Micle Berry		",367
+"Mighty Candy		",368
+"Mighty Candy L		",369
+"Mighty Candy XL		",370
+"Mild Mint		",371
+"Mimikium Z		",372
+"Mind Plate		",373
+"Miracle Seed		",374
+"Misty Seed		",375
+"Mixed Mushrooms		",376
+"Modest Mint		",377
+"Moomoo Cheese		",378
+"Moomoo Milk		",379
+"Moon Ball		",380
+"Moon Stone		",381
+"Muscle Band		",382
+"Muscle Wing		",383
+"Mystic Water		",384
+"Naive Mint		",385
+"Nanab Berry		",386
+"Naughty Mint		",387
+"Nest Ball		",388
+"Net Ball		",389
+"Never-Melt Ice		",390
+"Nomel Berry		",391
+"Normal Gem		",392
+"Normalium Z		",393
+"Nugget		",394
+"Occa Berry		",395
+"Odd Incense		",396
+"Odd Keystone		",397
+"Old Amber		",398
+"Old Gateau		",399
+"Oran Berry		",400
+"Oval Charm		",401
+"Oval Stone		",402
+"Pack of Potatoes		",403
+"Packaged Curry		",404
+"Pamtre Berry		",405
+"Paralyze Heal		",406
+"Park Ball		",407
+"Pass Orb		",408
+"Passho Berry		",409
+"Pasta		",410
+"Payapa Berry		",411
+"Pearl		",412
+"Pearl String		",413
+"Pecha Berry		",414
+"Permit		",415
+"Persim Berry		",416
+"Petaya Berry		",417
+"Pewter Crunchies		",418
+"Pidgeotite		",419
+"Pikanium Z		",420
+"Pikashunium Z		",421
+"Pinap Berry		",422
+"Pink Apricorn		",423
+"Pink Nectar		",424
+"Pink Scarf		",425
+"Pinsirite		",426
+"Pixie Plate		",427
+"Plasma Card		",428
+"Plume Fossil		",429
+"Poison Barb		",430
+"Poison Gem		",431
+"Poison Memory		",432
+"Poisonium Z		",433
+"Poké Ball		",434
+"Poké Doll		",435
+"Poké Toy		",436
+"Polished Mud Ball		",437
+"Pomeg Berry		",438
+"Potion		",439
+"Power Anklet		",440
+"Power Band		",441
+"Power Belt		",442
+"Power Bracer		",443
+"Power Herb		",444
+"Power Lens		",445
+"Power Plant Pass		",446
+"Power Weight		",447
+"PP Max		",448
+"PP Up		",449
+"Precooked Burger		",450
+"Premier Ball		",451
+"Pretty Wing		",452
+"Primarium Z		",453
+"Prism Scale		",454
+"Prison Bottle		",455
+"Prof's Letter		",456
+"Protective Pads		",457
+"Protector		",458
+"Protein		",459
+"Psychic Gem		",460
+"Psychic Memory		",461
+"Psychic Seed		",462
+"Psychium Z		",463
+"Pungent Root		",464
+"Pure Incense		",465
+"Purple Nectar		",466
+"Qualot Berry		",467
+"Quick Ball		",468
+"Quick Candy		",469
+"Quick Candy L		",470
+"Quick Candy XL		",471
+"Quick Claw		",472
+"Quick Powder		",473
+"Quiet Mint		",474
+"Rabuta Berry		",475
+"Rage Candy Bar		",476
+"Rare Bone		",477
+"Rare Candy		",478
+"Rash Mint		",479
+"Rawst Berry		",480
+"Razor Claw		",481
+"Razor Fang		",482
+"Razz Berry		",483
+"Reaper Cloth		",484
+"Red Apricorn		",485
+"Red Card		",486
+"Red Flute		",487
+"Red Nectar		",488
+"Red Scarf		",489
+"Red Shard		",490
+"Relaxed Mint		",491
+"Relic Band		",492
+"Relic Copper		",493
+"Relic Crown		",494
+"Relic Gold		",495
+"Relic Silver		",496
+"Relic Statue		",497
+"Relic Vase		",498
+"Repeat Ball		",499
+"Repel		",500
+"Reset Urge		",501
+"Resist Wing		",502
+"Reveal Glass		",503
+"Revival Herb		",504
+"Revive		",505
+"Ribbon Sweet		",506
+"Rindo Berry		",507
+"Ring Target		",508
+"Rock Gem		",509
+"Rock Incense		",510
+"Rock Memory		",511
+"Rockium Z		",512
+"Rocky Helmet		",513
+"Roller Skates		",514
+"Room Service		",515
+"Root Fossil		",516
+"Rose Incense		",517
+"Roseli Berry		",518
+"Roto Bargain		",519
+"Roto Boost		",520
+"Roto Catch		",521
+"Roto Encounter		",522
+"Roto Exp. Points		",523
+"Roto Friendship		",524
+"Roto Hatch		",525
+"Roto HP Restore		",526
+"Roto PP Restore		",527
+"Roto Prize Money		",528
+"Roto Stealth		",529
+"Rowap Berry		",530
+"Sablenite		",531
+"Sachet		",532
+"Sacred Ash		",533
+"Safari Ball		",534
+"Safety Goggles		",535
+"Salac Berry		",536
+"Salad Mix		",537
+"Salamencite		",538
+"Sassy Mint		",539
+"Sausages		",540
+"Sceptilite		",541
+"Scizorite		",542
+"Scope Lens		",543
+"Sea Incense		",544
+"Serious Mint		",545
+"Shaderoot Carrot		",546
+"Shalour Sable		",547
+"Sharp Beak		",548
+"Sharpedonite		",549
+"Shed Shell		",550
+"Shell Bell		",551
+"Shiny Charm		",552
+"Shiny Stone		",553
+"Shoal Salt		",554
+"Shoal Shell		",555
+"Shock Drive		",556
+"Shuca Berry		",557
+"Silk Scarf		",558
+"Silver Leaf		",559
+"Silver Nanab Berry		",560
+"Silver Pinap Berry		",561
+"Silver Powder		",562
+"Silver Razz Berry		",563
+"Sitrus Berry		",564
+"Skull Fossil		",565
+"Sky Plate		",566
+"Slowbronite		",567
+"Small Bouquet		",568
+"Smart Candy		",569
+"Smart Candy L		",570
+"Smart Candy XL		",571
+"Smoke Ball		",572
+"Smoke-Poke Tail		",573
+"Smooth Rock		",574
+"Snorlium Z		",575
+"Snowball		",576
+"Soda Pop		",577
+"Soft Sand		",578
+"Solganium Z		",579
+"Soothe Bell		",580
+"Soul Dew		",581
+"Spell Tag		",582
+"Spelon Berry		",583
+"Spice Mix		",584
+"Splash Plate		",585
+"Spooky Plate		",586
+"Sport Ball		",587
+"Sprinklotad		",588
+"Stable Mulch		",589
+"Star Piece		",590
+"Star Sweet		",591
+"Stardust		",592
+"Starf Berry		",593
+"Steel Gem		",594
+"Steel Memory		",595
+"Steelium Z		",596
+"Steelixite		",597
+"Sticky Barb		",598
+"Stone Plate		",599
+"Strange Souvenir		",600
+"Strawberry Sweet		",601
+"Stretchy Spring		",602
+"Sun Stone		",603
+"Super Lure		",604
+"Super Potion		",605
+"Super Repel		",606
+"Swampertite		",607
+"Sweet Apple		",608
+"Sweet Heart		",609
+"Swift Wing		",610
+"Tamato Berry		",611
+"Tanga Berry		",612
+"Tapunium Z		",613
+"Tart Apple		",614
+"Terrain Extender		",615
+"Thick Club		",616
+"Throat Spray		",617
+"Thunder Stone		",618
+"Timer Ball		",619
+"Timid Mint		",620
+"Tin of Beans		",621
+"Tiny Mushroom		",622
+"TM00		",623
+"TM01		",624
+"TM02		",625
+"TM03		",626
+"TM04		",627
+"TM05		",628
+"TM06		",629
+"TM07		",630
+"TM08		",631
+"TM09		",632
+"TM10		",633
+"TM100		",634
+"TM11		",635
+"TM12		",636
+"TM13		",637
+"TM14		",638
+"TM15		",639
+"TM16		",640
+"TM17		",641
+"TM18		",642
+"TM19		",643
+"TM20		",644
+"TM21		",645
+"TM22		",646
+"TM23		",647
+"TM24		",648
+"TM25		",649
+"TM26		",650
+"TM27		",651
+"TM28		",652
+"TM29		",653
+"TM30		",654
+"TM31		",655
+"TM32		",656
+"TM33		",657
+"TM34		",658
+"TM35		",659
+"TM36		",660
+"TM37		",661
+"TM38		",662
+"TM39		",663
+"TM40		",664
+"TM41		",665
+"TM42		",666
+"TM43		",667
+"TM44		",668
+"TM45		",669
+"TM46		",670
+"TM47		",671
+"TM48		",672
+"TM49		",673
+"TM50		",674
+"TM51		",675
+"TM52		",676
+"TM53		",677
+"TM54		",678
+"TM55		",679
+"TM56		",680
+"TM57		",681
+"TM58		",682
+"TM59		",683
+"TM60		",684
+"TM61		",685
+"TM62		",686
+"TM63		",687
+"TM64		",688
+"TM65		",689
+"TM66		",690
+"TM67		",691
+"TM68		",692
+"TM69		",693
+"TM70		",694
+"TM71		",695
+"TM72		",696
+"TM73		",697
+"TM74		",698
+"TM75		",699
+"TM76		",700
+"TM77		",701
+"TM78		",702
+"TM79		",703
+"TM80		",704
+"TM81		",705
+"TM82		",706
+"TM83		",707
+"TM84		",708
+"TM85		",709
+"TM86		",710
+"TM87		",711
+"TM88		",712
+"TM89		",713
+"TM90		",714
+"TM91		",715
+"TM92		",716
+"TM93		",717
+"TM94		",718
+"TM95		",719
+"TM96		",720
+"TM97		",721
+"TM98		",722
+"TM99		",723
+"TMV Pass		",724
+"Tough Candy		",725
+"Tough Candy L		",726
+"Tough Candy XL		",727
+"Toxic Orb		",728
+"Toxic Plate		",729
+"TR00		",730
+"TR01		",731
+"TR02		",732
+"TR03		",733
+"TR04		",734
+"TR05		",735
+"TR06		",736
+"TR07		",737
+"TR08		",738
+"TR09		",739
+"TR10		",740
+"TR11		",741
+"TR12		",742
+"TR13		",743
+"TR14		",744
+"TR15		",745
+"TR16		",746
+"TR17		",747
+"TR18		",748
+"TR19		",749
+"TR20		",750
+"TR21		",751
+"TR22		",752
+"TR23		",753
+"TR24		",754
+"TR25		",755
+"TR26		",756
+"TR27		",757
+"TR28		",758
+"TR29		",759
+"TR30		",760
+"TR31		",761
+"TR32		",762
+"TR33		",763
+"TR34		",764
+"TR35		",765
+"TR36		",766
+"TR37		",767
+"TR38		",768
+"TR39		",769
+"TR40		",770
+"TR41		",771
+"TR42		",772
+"TR43		",773
+"TR44		",774
+"TR45		",775
+"TR46		",776
+"TR47		",777
+"TR48		",778
+"TR49		",779
+"TR50		",780
+"TR51		",781
+"TR52		",782
+"TR53		",783
+"TR54		",784
+"TR55		",785
+"TR56		",786
+"TR57		",787
+"TR58		",788
+"TR59		",789
+"TR60		",790
+"TR61		",791
+"TR62		",792
+"TR63		",793
+"TR64		",794
+"TR65		",795
+"TR66		",796
+"TR67		",797
+"TR68		",798
+"TR69		",799
+"TR70		",800
+"TR71		",801
+"TR72		",802
+"TR73		",803
+"TR74		",804
+"TR75		",805
+"TR76		",806
+"TR77		",807
+"TR78		",808
+"TR79		",809
+"TR80		",810
+"TR81		",811
+"TR82		",812
+"TR83		",813
+"TR84		",814
+"TR85		",815
+"TR86		",816
+"TR87		",817
+"TR88		",818
+"TR89		",819
+"TR90		",820
+"TR91		",821
+"TR92		",822
+"TR93		",823
+"TR94		",824
+"TR95		",825
+"TR96		",826
+"TR97		",827
+"TR98		",828
+"TR99		",829
+"Tropical Shell		",830
+"Twisted Spoon		",831
+"Tyranitarite		",832
+"Ultra Ball		",833
+"Ultranecrozium Z		",834
+"Upgrade		",835
+"Utility Umbrella		",836
+"Venusaurite		",837
+"Wacan Berry		",838
+"Water Gem		",839
+"Water Memory		",840
+"Water Stone		",841
+"Waterium Z		",842
+"Watmel Berry		",843
+"Wave Incense		",844
+"Weakness Policy		",845
+"Wepear Berry		",846
+"Whipped Dream		",847
+"White Apricorn		",848
+"White Flute		",849
+"White Herb		",850
+"Wide Lens		",851
+"Wiki Berry		",852
+"Wise Glasses		",853
+"Wishing Piece		",854
+"X Accuracy		",855
+"X Accuracy 2		",856
+"X Accuracy 3		",857
+"X Accuracy 6		",858
+"X Attack		",859
+"X Attack 2		",860
+"X Attack 3		",861
+"X Attack 6		",862
+"X Defense		",863
+"X Defense 2		",864
+"X Defense 3		",865
+"X Defense 6		",866
+"X Sp. Atk		",867
+"X Sp. Atk 2		",868
+"X Sp. Atk 3		",869
+"X Sp. Atk 6		",870
+"X Sp. Def		",871
+"X Sp. Def 2		",872
+"X Sp. Def 3		",873
+"X Sp. Def 6		",874
+"X Speed		",875
+"X Speed 2		",876
+"X Speed 3		",877
+"X Speed 6		",878
+"Yache Berry		",879
+"Yellow Apricorn		",880
+"Yellow Flute		",881
+"Yellow Nectar		",882
+"Yellow Scarf		",883
+"Yellow Shard		",884
+"Zap Plate		",885
+"Zinc		",886
+"Zoom Lens		",887
+Rusted Sword,888
+Rusted,888
+Rusted Shield,889
